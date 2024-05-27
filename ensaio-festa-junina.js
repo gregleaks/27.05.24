@@ -82,30 +82,6 @@ class Pessoas {
         this.numero_endereco = numero_endereco;
         this.bairro = bairro;
         this.cidade = cidade;
-        this.estado = estado;
-        this.cep = cep;
-        this.whatsapp = whatsapp;
-        this.facebook = facebook;
-        this.instagram = instagram;
-        this.twitter_x = twiter_x;
-        this.linkedin = linkedin;
-        this.email = email;
-        this.tiktok = tiktok;
-        this.youtube = youtube;
-        this.snapchat = snapchat;
-        this.orkut = orkut;
-        this.tinder = tinder;
-        this.uber = uber;
-        this.app_99 = app_99;
-        this.profissao = profissao;
-        this.nacionalidade = nacionalidade;
-        this.estado_civil = estado_civil
-        this.possui_deficiencia = possui_deficiencia;
-        this.cnh = cnh;
-        this.passaporte = passaporte;   
-        this.religiao = religiao;
-        this.partido_politico = partido_politico;
-        this.idioma = idioma;
-        this.figurino = figurino;
+
     }
 }
